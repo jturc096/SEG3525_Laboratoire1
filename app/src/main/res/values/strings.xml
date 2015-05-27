@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Laboratoire1</string>
+
+    <string name="amount_string">Enter the amount of the bill : </string>
+    <string name="tipPercentage_string">Tip percentage : </string>
+    <string name="nbPerson_string">Splitted in : </string>
+    <string name="action_settings">Settings</string>
+</resources>
